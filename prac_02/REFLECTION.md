@@ -3,31 +3,26 @@
 Write short but thoughtful answers to each of the following.  
 Replace each `...` with your meaningful answer.
 
-# CP1404 Practical Reflection
-
-Write a short but thoughtful answer for each of the following.  
-Replace each '...' with a meaningful answer.
-
 ## What percentage of the lecture videos have you watched so far?
 
-It's about 70 percent.
+I have watched about 10% of the lecture videos so far. It's still early in the semester, but I plan to stay consistent and catch up.
 
-## What time, place, and time did you reserve for the lecture video?
+## What time, location and duration have you scheduled to watch lecture videos?
 
-I watch it for about 2 hours when I study at school or when I study alone at home
+I have scheduled to watch lecture videos in the evening (7–9 PM) in a quiet environment. On weekdays, I plan to spend about an hour per day, and on weekends, I will use extra time to review and catch up.
 
-## What are you doing well in the subject so far and will you continue to do so?
+## What are you doing well in the subject so far that you will keep doing?
 
-I am reviewing well. I will continue to review consistently every week.
+I am actively working on practical exercises and making an effort to write code myself. Instead of just reading or watching, I try to apply what I learn in different ways, which has been helpful. I will continue this approach.
 
-## What should I stop or change overall on this topic so far?
+## What do you need to stop or change in your work for this subject overall so far?
 
-I will correct my mistakes when writing my code, which I have been pointed out since programming class 1.
+Sometimes, I delay watching lecture videos, so I need to set a study schedule and stick to it. Also, instead of just watching the lectures passively, I should actively practice coding alongside them to reinforce my understanding.
 
-## What are you currently not doing well for the practitioners in this subject that you will change?
+## What are you currently doing poorly for practicals in this subject that you will change?
 
-I think it's wrong not to do assignments in advance
+I tend to spend too much time trying to solve problems on my own, which sometimes makes me lose track of the overall progress. I need to ask questions when needed and focus on strengthening my fundamental understanding rather than getting stuck on one problem for too long.
 
-## What are you doing really well for the practice of this subject?
+## What are you doing really well for practicals in this subject?
 
-I'm constantly reviewing and watching videos.
+I try not just to complete the exercises but also to think about the structure and efficiency of my code. I also experiment with different approaches to solve problems and compare them, which helps me improve my coding style. I plan to keep developing this habit.

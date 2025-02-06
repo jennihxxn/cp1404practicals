@@ -1,25 +1,29 @@
-"""
-Password Stars Program
-"""
 
-# Define the minimum password length
-MIN_PASSWORD_LENGTH = 8
+PASSWORD_LENGTH = 8
+
 
 def main():
-    """Get a password from the user and print asterisks with the same length."""
+    # Receive a password from the user and output it as '*'.
     password = get_password()
     print_asterisks(password)
 
+
 def get_password():
-    """Get a valid password from the user."""
-    password = input("Enter a password: ")
-    while len(password) < MIN_PASSWORD_LENGTH:
-        print(f"Password must be at least {MIN_PASSWORD_LENGTH} characters long.")
-        password = input("Enter a password: ")
+    # get password from users
+    password = input("Enter your password: ")
+    while len(password) < PASSWORD_LENGTH:
+        print("Password is too short, please enter at least 8 characters.")
+        password = input("Enter your password: ")
     return password
 
+
 def print_asterisks(password):
-    """Print asterisks with the same length as the provided password."""
-    print("*" * len(password))
+    # print asterisks
+    print('*' * len(password))
+
+
+
+
 
 main()
+
